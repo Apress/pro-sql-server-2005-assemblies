@@ -1,0 +1,5 @@
+bin\Debug\5661_Ch6_Ch7.dll
+bin\Debug\5661_Ch6_Ch7.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\5661_Ch6_Ch7.dll
+obj\Debug\5661_Ch6_Ch7.pdb
